@@ -1,0 +1,64 @@
+@import url("base.css");
+
+.body{
+	background-color: #ccc; 	
+	width: 70%;
+	margin: 0 auto;
+	clear: both; /*no floating on left or right*/
+}
+header section{
+	float: left;
+	width:100%	;
+}
+header section img{
+	width: 150px;
+	height: 100px;
+	margin: 2% 0;
+	float:left;
+}
+header section div {
+	float: right;
+	color: grey;
+	font-family: 'Verdana';
+}
+nav {
+	background-color:#666;
+	height: 34px;
+	
+	border-radius: 5px;
+}
+nav ul{
+	list-style: none;
+	height: 40px;
+	float: left;
+    margin-top: 0%;
+}
+
+nav ul li {
+	float: left;
+	display: inline;
+}
+nav ul li a{
+	float: left;
+	height: 100%;
+	width: auto;
+	padding :5px;
+	border-radius:3px;
+}
+nav ul li a:link,nav ul li a:visited{
+	color:white;
+	display: inline-block;
+
+	height: 100%;
+}
+nav ul li a:hover{
+	background-color: orange;
+}
+
+.maincontent{
+	float: left;
+	border-radius: 5px;
+	background: white;
+	margin-top: 0px;
+	padding: 30px;
+}
