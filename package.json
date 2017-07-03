@@ -1,0 +1,19 @@
+{
+  "name": "learnhtml5css3",
+  "version": "1.0.0",
+  "description": "learn html5 and css3 ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishwas1/LearnHTML5CSS3.git"
+  },
+  "author": "Vishwas B Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishwas1/LearnHTML5CSS3/issues"
+  },
+  "homepage": "https://github.com/Vishwas1/LearnHTML5CSS3#readme"
+}
